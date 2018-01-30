@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Strict Starter',
+    title: 'Ivan Gerasimov | Иван Герасимов',
   },
   plugins: ['gatsby-plugin-react-helmet'],
 };
